@@ -27,3 +27,9 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+console.log(typeof Symbol);
+
+console.log(null==0);
+console.log(null>=0);
+console.log(null===0);
+console.log(null==undefined);
